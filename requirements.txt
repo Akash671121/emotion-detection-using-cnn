@@ -1,0 +1,18 @@
+tensorflow
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-learn
+Pillow
+
+| Package         | Why your project needs it                                                    |
+| --------------- | ---------------------------------------------------------------------------- |
+| `tensorflow`    | Loads/runs and trains your CNN emotion model                                 |
+| `opencv-python` | Webcam access and face detection                                             |
+| `numpy`         | Image/array processing                                                       |
+| `pandas`        | Working with emotion logs/data                                               |
+| `matplotlib`    | Creating the confusion matrix/plots                                          |
+| `scikit-learn`  | Model evaluation and confusion matrix                                        |
+| `Pillow`        | Image handling, especially for the GUI                                       |
+| `tkinter`       | GUI — **don't add it** to requirements because it normally comes with Python |
