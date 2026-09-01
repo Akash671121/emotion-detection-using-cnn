@@ -72,6 +72,19 @@ The model performance was evaluated using a confusion matrix.
 
 See `confusion_matrix.pdf` for the evaluation result.
 
+## Output
+
+The application performs real-time facial emotion detection through a webcam and displays the predicted emotion for the detected face.
+
+The model recognizes seven emotions:
+- Angry
+- Disgust
+- Fear
+- Happy
+- Neutral
+- Sad
+- Surprise
+  
 ## How to Run
 
 ### 1. Clone the repository
