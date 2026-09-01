@@ -13,7 +13,7 @@ The system uses a webcam to detect a person's face and predicts one of seven emo
 - Neutral
 - Sad
 - Surprise
-
+  
 ## Features
 
 - Real-time emotion detection using a webcam
